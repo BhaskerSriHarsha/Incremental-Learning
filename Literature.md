@@ -7,3 +7,4 @@ Here is a list of some papers in the field along with their pdfs:
 5. FearNet: Brain- Inspired model for incremental Learning: Ronald Kemker(2018): [Link](https://arxiv.org/pdf/1711.10563.pdf)
 6. Overcoming catastrophic forgetting in neural networks:James Kirkpatricka et al(2017:[Link](https://www.pnas.org/content/pnas/114/13/3521.full.pdf)
 7. Wikipedia article about Catastrophic forgetting/Interference: [Link](https://en.wikipedia.org/wiki/Catastrophic_interference)
+8. On the role of neurogenesis in overcoming catastrophic forgetting [Link](https://arxiv.org/pdf/1811.02113.pdf)
