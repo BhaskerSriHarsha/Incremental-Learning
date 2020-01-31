@@ -1,4 +1,4 @@
-Here is list of important papers in the field along with their pdfs:
+Here is a list of some papers in the field along with their pdfs:
 
 1. Memory retention- the synaptic stability versus plasticity dilemma: Wickliffe C. Abraham (2005): [Link](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.371.6320&rep=rep1&type=pdf)
 2. Catastrophic Forgetting, Rehearsal and Pseudorehearsal: Robins(1995): [Link](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.108.3078&rep=rep1&type=pdf)
