@@ -13,4 +13,14 @@ Incremental Learning is also called as Continual learning or Lifelong learning. 
 
 # Why is incremental Learning important?
 
-In the quest to realize Artificial General Intelligence, we need to develope Artificial Agents that are capable of learning new things continously in the natural environment. Current day neural network architectures donot serve the purpose as they forget previously learnt task when they learn a new task. So, developing archtiectures that can incrementally learn new tasks is essential for realizing Artificial General Intelligence.
+In the quest to realize Artificial General Intelligence, we need to develope Artificial Agents that are capable of learning new things continously in the natural environment. Current day neural network architectures donot serve the purpose as they forget previously learnt task as soon as they learn a new task. So, developing archtiectures that can incrementally learn new tasks is essential for realizing Artificial General Intelligence.
+
+# How can we planning to solve the problem then?
+
+The answer to Incremental Learning can be found in two important questions::
+
+  * Can we mitigate catastrophic forgetting in current Artificial Neural Architecture?
+  * Are there any alternate architectures out there that donot suffer from Catastrophic Forgetting?
+  
+All the currently available techniques try to solve the problem by answering the first question. However, the second question is also of equal importance. Biological Neural Networks seem immune to Catastrophic Forgetting. So, is it possible to build architectures that mimic BNNs to mitigate Catastrophic Forgetting? A strong research effort is needed to answer these questions and this repository is intended to aid the research community by providing knowledge and tools required to tackle the problem.
+
