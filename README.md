@@ -1,9 +1,6 @@
-# Incremental-Learning
-This repository is dedicated for research in Incremental Learning
+# Incremental Learning Research
 
-The repository has the following sections :
+This repository is dedicated for serving as infrastructure for research in Incremental Learning. The repository hosts all the important literature, code implementations and links to other communities that are dedicated for Incremental Learning research.
 
-1. Literature: All the important papers in Incremental Learning
-2. Implementations: All the re-implementations of famous models and techniques in the field.
-3. Research directions
-4. General Information
+If you want to read about Incremental Learning please visit the [literature](https://github.com/BhaskerSriHarsha/Incremental-Learning/blob/master/Literature.md) page. 
+If you want to experiement with previously developed models, then visit the [Code Implementations](https://github.com/BhaskerSriHarsha/Incremental-Learning/tree/master/Code%20Implementations) page.
