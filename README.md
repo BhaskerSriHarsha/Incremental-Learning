@@ -4,3 +4,5 @@ This repository is dedicated for serving as infrastructure for research in Incre
 
 If you want to read about Incremental Learning please visit the [literature](https://github.com/BhaskerSriHarsha/Incremental-Learning/blob/master/Literature.md) page. 
 If you want to experiement with previously developed models, then visit the [Code Implementations](https://github.com/BhaskerSriHarsha/Incremental-Learning/tree/master/Code%20Implementations) page.
+
+Please note that the repository is still under construction and might miss references to code and papers. All the references will be fixed in due time. 
