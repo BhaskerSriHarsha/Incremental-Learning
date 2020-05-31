@@ -15,7 +15,7 @@ Incremental Learning is also called as Continual learning or Lifelong learning. 
 
 In the quest to realize Artificial General Intelligence, we need to develope Artificial Agents that are capable of learning new things continously in the natural environment. Current day neural network architectures donot serve the purpose as they forget previously learnt task as soon as they learn a new task. So, developing archtiectures that can incrementally learn new tasks is essential for realizing Artificial General Intelligence.
 
-# How can we planning to solve the problem then?
+# How are we planning to solve the problem then?
 
 The answer to Incremental Learning can be found in two important questions::
 
